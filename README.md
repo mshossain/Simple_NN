@@ -9,3 +9,6 @@ https://youtu.be/BBgDxvOlFG0
 The following YouTube video explains L1 and L2 regularization and how to incorporate L2 regularization with MLPRegressor.
 https://youtu.be/yg_QcSnSZcY
 
+A correction is available in this 2-minute video: 
+https://youtu.be/m8AazkGgat8
+
