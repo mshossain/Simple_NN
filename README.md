@@ -12,5 +12,5 @@ https://youtu.be/yg_QcSnSZcY
 A correction is available in this 2-minute video: 
 https://youtu.be/m8AazkGgat8
 
-# L1 REgularization for Feature Selection:
+# A Case Study on Feature Selection Using L1 Regularization
 File: L1_Test.ipynb
