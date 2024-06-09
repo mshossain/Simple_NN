@@ -14,3 +14,5 @@ https://youtu.be/m8AazkGgat8
 
 # A Case Study on Feature Selection Using L1 Regularization
 File: L1_Test.ipynb
+Here is my video on this case study: https://youtu.be/I6bFQOWlD0I
+
